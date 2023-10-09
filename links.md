@@ -9,3 +9,7 @@ https://docs.aws.amazon.com/whitepapers/latest/web-application-hosting-best-prac
 or 
 https://aws.amazon.com/whitepapers/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&awsf.whitepapers-content-type=*all&awsf.whitepapers-global-methodology=*all&awsf.whitepapers-tech-category=*all&awsf.whitepapers-industries=*all&awsf.whitepapers-business-category=*all
 
+Exercise 3:
+Login to aws console
+https://905392101331.signin.aws.amazon.com/console
+
