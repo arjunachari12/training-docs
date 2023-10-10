@@ -21,3 +21,6 @@ Upload some files with differenet storage classes
 
 Automated the object moving from Standard to Intelligent or Glacier
 
+Excercise 6:
+Create a new lambda function
+
