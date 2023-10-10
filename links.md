@@ -21,9 +21,23 @@ Upload some files with differenet storage classes
 
 Automated the object moving from Standard to Intelligent or Glacier
 
+Certification
+https://d1.awsstatic.com/training-and-certification/docs/AWS_certification_paths.pdf4
+
+
+
 GCP products
 https://cloud.google.com/products
 
 Excercise 6:
 Create a new lambda function
+
+
+Training material
+
+https://docs.google.com/presentation/d/1s-Rv5ovmbQ60kBqnmjdul9vdEDHZeKYa1ZEr0z4C-Kw/edit?usp=sharing
+
+Architecture diagram
+https://drive.google.com/file/d/12OrWw5SKrmJYoufJNWw81lMeN_ApSOM7/view?usp=sharing
+
 
