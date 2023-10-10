@@ -13,3 +13,6 @@ Exercise 3:
 Login to aws console
 https://905392101331.signin.aws.amazon.com/console
 
+Exercise 4:
+Provision windows server and RDP
+
