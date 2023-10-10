@@ -16,3 +16,8 @@ https://905392101331.signin.aws.amazon.com/console
 Exercise 4:
 Provision windows server and RDP
 
+Excercise 5:
+Upload some files with differenet storage classes
+
+Automated the object moving from Standard to Intelligent or Glacier
+
